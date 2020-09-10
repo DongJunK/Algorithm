@@ -1,4 +1,3 @@
-
 public class A {
 	static int N;
 	boolean checkBottom(int y) {
