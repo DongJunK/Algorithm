@@ -1,10 +1,3 @@
-/*
-* BeakJoon ID : skdltm357
-* TOPCODER PRACTICE
-*
-* Github ID = DongjunK
-* Github = https://github.com/DongJunK/topcoder
-*/
 #include <iostream>
 #include <vector>
 using namespace std;
